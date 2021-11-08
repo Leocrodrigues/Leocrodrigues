@@ -1,6 +1,6 @@
 ### Olá!! Eu sou Leonardo Costa Rodrigues
 
-- 💻 Trabalho com QA mas em busca de oportunidades na área de Dados
+- 💻 Trabalho com QA 
 - 📧 Contate-me no e-mail leo.costarodrigues@outlook.com
 - 👨‍🎓 Pós-Gradução Data Science e Analytics
 
