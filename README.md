@@ -2,7 +2,7 @@
 
 - 💻 Trabalho com QA 
 - 📧 Contate-me no e-mail leo.costarodrigues@outlook.com
-- 👨‍🎓 Pós-Gradução Data Science e Analytics
+- 👨‍🎓 Estou estudando data science e analytics
 
 <div align="center">
   <a href="https://github.com/Leocrodrigues">
