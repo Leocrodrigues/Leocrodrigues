@@ -1,7 +1,7 @@
-### Olá!! Eu sou Leonardo Costa Rodrigues
+### Olá!! Eu sou Leonardo Costa Rodrigues, bem-vindos ao meu git!
 
 - 💻 Trabalho com QA 
-- 📧 Contate-me no e-mail leo.costarodrigues@outlook.com
+- 📧 Contate-me no e-mail: leo.costarodrigues@outlook.com
 - 👨‍🎓 Estou estudando data science e analytics
 
 <div align="center">
