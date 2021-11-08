@@ -1,4 +1,4 @@
-### Olá!! Eu sou Leonardo Costa
+### Olá!! Eu sou Leonardo Costa Rodrigues
 
 - 💻 Trabalho com QA
 - 📧 Contate-me no e-mail leo.costarodrigues@outlook.com
