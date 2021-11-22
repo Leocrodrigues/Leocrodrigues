@@ -4,6 +4,8 @@
 - 📧 Contate-me no e-mail: leo.costarodrigues@outlook.com
 - 👨‍🎓 Estou estudando data science e analytics
 
+
+
 <div align="center">
   <a href="https://github.com/Leocrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leocrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -34,4 +36,4 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank"></a>
     
     
-  
+  - Qualquer dúvida, feedback, convite para projetos e estudos estou aberto.  
