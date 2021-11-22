@@ -38,4 +38,4 @@
    
 ##    
     
-  - Qualquer dúvida, feedback, convite para projetos e estudos estou aberto.  
+  - Qualquer dúvida, feedback, convite para projetos e estudos estou aberto. Podem me contatar!
