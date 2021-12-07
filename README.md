@@ -23,6 +23,7 @@
   <img align="center" alt="leo-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
    <img align="center" alt="leo-spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
     <img align="center" alt="leo-visual" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg">
+    <img align="center" alt="leo-visual" height="30" width="40" src=" https://cdn.cdnlogo.com/logos/g/39/google-data-studio.svg">
    </div>
 
  ##
@@ -33,7 +34,6 @@
   <a href="https://www.linkedin.com/in/leonardo-costarodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiNWYyMTkwOTYtODg2Yy00NWM0LWIzNTUtMjc0MmE4OTliOTcyIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9&pageName=ReportSection" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" target="_blank"></a>
     
    
 ##    
