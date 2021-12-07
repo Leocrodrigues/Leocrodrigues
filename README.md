@@ -21,7 +21,7 @@
    <img align="center" alt="Leo-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="leo-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-   <img align="center" alt="leo-spark" height="30" width="40" src=" https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+   <img align="center" alt="leo-spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
    </div>
 
  ##
