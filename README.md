@@ -1,6 +1,6 @@
 ### Olá!! Eu sou Leonardo Costa Rodrigues, bem-vindos ao meu git!
 
-- 💻 Trabalho com QA, em transição para área de dados
+- 💻 Trabalho com BI e data analytics
 - 📧 Contate-me no e-mail: leo.costarodrigues@outlook.com
 - 👨‍🎓 Estou estudando data science e analytics
 
