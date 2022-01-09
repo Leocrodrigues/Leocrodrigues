@@ -24,7 +24,7 @@
    <img align="center" alt="leo-spark" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
     <img align="center" alt="leo-visual" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg">
     <img align="center" alt="leo-visual" height="30" width="40" src="https://cdn.cdnlogo.com/logos/g/39/google-data-studio.svg">
-    <img align="center" alt="leo-visual" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg">
+    <img align="center" alt="leo-visual" height="30" width="40" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg">
    </div>
 
  ##
